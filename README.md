@@ -1,5 +1,7 @@
 # シンプルかつ高精度な姿勢推定の手法について学んでみた（Xiao et al., ECCV, 2018）
 
+このレポジトリは、[こちらのブログ](https://kentapt.hatenablog.com/entry/2021/12/11/231001?_ga=2.206475675.969068872.1638721409-1601353361.1630730568)のためのコードやデータを共有するためのものです。
+
 この記事は、MATLAB/Simulink Advent Calendar 2021（カレンダー2）の12日目の記事として書かれています。
 
 https://qiita.com/advent-calendar/2021/matlab
